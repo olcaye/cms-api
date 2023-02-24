@@ -32,11 +32,6 @@ Also postman collection there;
 [Postman Collection for API](https://github.com/olcaye/niceye-api/files/8750472/niceye.postman_collection.json.zip)
 
 
-Feel free to use below server to try APIs.
-
-e.g
-
-https://niceye-api.herokuapp.com/api/client/register
 
 
 
